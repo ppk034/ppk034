@@ -11,9 +11,13 @@ Skills & Expertise:
 Machine Learning: Experienced in supervised and unsupervised learning algorithms, feature engineering, and model evaluation (regression, classification, clustering).
 Deep Learning: Proficient in neural networks, CNNs, RNNs, LSTMs, and transformers with a focus on real-world applications in computer vision and NLP.
 Business Intelligence: Skilled in building dynamic dashboards and reports using Power BI and Tableau, translating data into actionable insights for revenue optimization, customer behavior analysis, and operational efficiency.
+
+
 MLOps: Streamlining model development and deployment pipelines, from experimentation to production, ensuring scalability and performance.
 Programming Languages: Python, SQL, R, and familiarity with cloud platforms like AWS and Azure.
 Tools & Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, and various visualization tools.
+
+
 Current Interests:
 Applying machine learning to solve complex business challenges
 Exploring state-of-the-art models in Generative AI and Large Language Models (LLMs)
